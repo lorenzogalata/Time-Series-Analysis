@@ -1,5 +1,4 @@
 ![](https://img.shields.io/badge/jupyter%20notebook-100%25-blue)
-![](https://img.shields.io/badge/repo%20size-5.68%20MB-blue)
 ![](https://img.shields.io/badge/last%20commit-march-brightgreen)
 
 [![nbviewer](https://img.shields.io/badge/view%20in-nbviewer-orange)](https://nbviewer.org/github/lorenzogalata/Time-Series-Analysis/tree/main/)
