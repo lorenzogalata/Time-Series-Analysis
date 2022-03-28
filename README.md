@@ -1,10 +1,9 @@
 ![](https://img.shields.io/badge/jupyter%20notebook-100%25-blue)
 ![](https://img.shields.io/badge/last%20commit-march-brightgreen)
 
-[![nbviewer](https://img.shields.io/badge/view%20in-nbviewer-orange)](https://nbviewer.org/github/lorenzogalata/Time-Series-Analysis/tree/main/)
-
 # Time-Series-Analysis
-NOTE: to be sure that both python inputs and outputs are correctly rendered, notebooks must be visualised with nbviewer at [nbviewer.org/github/lorenzogalata/Time-Series-Analysis/tree/main/](https://nbviewer.org/github/lorenzogalata/Time-Series-Analysis/tree/main/) 
+NOTE: to be sure that both python inputs and outputs are correctly rendered, notebooks must be visualised with nbviewer at <br>
+[![nbviewer](https://img.shields.io/badge/view%20in-nbviewer-orange)](https://nbviewer.org/github/lorenzogalata/Time-Series-Analysis/tree/main/)
 
 ---
 
