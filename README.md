@@ -1,3 +1,7 @@
+![GitHub top language](https://img.shields.io/github/languages/top/DataForScience/Timeseries)
+![GitHub repo size](https://img.shields.io/github/repo-size/DataForScience/Timeseries)
+![GitHub last commit](https://img.shields.io/github/last-commit/DataForScience/Timeseries)
+
 [![nbviewer](https://img.shields.io/badge/view%20in-nbviewer-orange)](https://nbviewer.org/github/lorenzogalata/Time-Series-Analysis/tree/main/)
 
 # Time-Series-Analysis
