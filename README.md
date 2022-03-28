@@ -1,4 +1,4 @@
-![GitHub top language](https://img.shields.io/github/languages/top/DataForScience/Timeseries)
+![](https://img.shields.io/badge/jupyter%20notebook-100%25-blue)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DataForScience/Timeseries)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DataForScience/Timeseries)
 
