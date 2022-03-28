@@ -1,5 +1,5 @@
 # Time-Series-Analysis
-IMPORTANT. TO be sure that both python inputs and outputs are correctly rendered, notebooks must be visualised with nbviewer at [nbviewer.org/github/lorenzogalata/Time-Series-Analysis/tree/main/](https://nbviewer.org/github/lorenzogalata/Time-Series-Analysis/tree/main/) 
+IMPORTANT: to be sure that both python inputs and outputs are correctly rendered, notebooks must be visualised with nbviewer at [nbviewer.org/github/lorenzogalata/Time-Series-Analysis/tree/main/](https://nbviewer.org/github/lorenzogalata/Time-Series-Analysis/tree/main/) 
 
 [![nbviewer](https://img.shields.io/badge/view%20in-nbviewer-orange)](https://nbviewer.org/github/lorenzogalata/Time-Series-Analysis/tree/main/)
 
