@@ -3,6 +3,9 @@ Time series analysis comprises methods for analyzing time series data in order t
 [[1]](https://en.wikipedia.org/wiki/Time_series). Time series forecasting is the use of a model to predict future values based on previously observed values. Time series data have a natural temporal ordering. This makes time series analysis distinct from cross-sectional studies, in which there is no natural ordering of 
 the observations. A stochastic model for a time series will generally reflect the fact that observations close together in time will be more closely related than observations further apart.
 
+This repository contains python notebooks with time series exploratory data analysis and forecasting. 
+
+
 ---
 
 NOTE - View notebooks on nbviewer to be sure that both inputs and outputs are correctly rendered: <br> <br>
