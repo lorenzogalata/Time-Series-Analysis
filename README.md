@@ -2,7 +2,8 @@
 ![](https://img.shields.io/badge/last%20commit-march-brightgreen)
 
 # Time-Series-Analysis
-NOTE: to be sure that both python inputs and outputs are correctly rendered, notebooks must be visualised with nbviewer at <br>
+NOTE: to be sure that both python inputs and outputs are correctly rendered, notebooks must be visualised with nbviewer
+
 [![nbviewer](https://img.shields.io/badge/view%20in-nbviewer-orange)](https://nbviewer.org/github/lorenzogalata/Time-Series-Analysis/tree/main/)
 
 ---
